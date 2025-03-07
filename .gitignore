@@ -1,0 +1,1 @@
+-e "*.log\n*.tmp\n.DS_Store\nnode_modules/" 
